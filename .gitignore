@@ -1,2 +1,4 @@
 # Project exclude paths
 /target/
+/.idea/
+/zookeeper-spring-boot-starter2.iml
